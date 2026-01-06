@@ -11,7 +11,6 @@
 </head>
 
 <body>
-<script src="script.js"></script>
 <h1 class="naw">Add new task</h1>
 
 <h3 id="xxx">Enter your task</h3>

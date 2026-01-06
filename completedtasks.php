@@ -13,7 +13,6 @@
 </head>
 
 <body>
-    <script src="script.js"></script>
 <h1 class="naw">To Do List</h1>
 <h3 class="heading">completed Tasks</h3>
 <div class="container">
